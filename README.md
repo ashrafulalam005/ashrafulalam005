@@ -90,9 +90,9 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 
 ### University
 
- <!-- <p align="center">
-  <img src="D:\neccesarry img\iiuc.jpg" alt="University Logo" width="80" height="80">
-</p> -->
+<p align="center">
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/iiuc.jpg" alt="University Logo" width="300" height="300">
+</p> 
 
 - **Institution Name:** "International Islamic University Chittagong (IIUC)"
 - **Degree:** B. Sc. in Computer Science and Engineering (CSE)
@@ -102,9 +102,9 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br>  I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university. <br>  
 ### Intermediate College
 
-<!-- <p align="center">
-  <img src="necessary img/ggc.jpg" alt="College Logo" width="80" height="80">
-</p> -->
+<p align="center">
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/ggc.jpg" width="250" height="250">
+</p> 
 
 - **Institution Name:** "Gachbaria Government College"
 - **Field:** Science
@@ -113,9 +113,9 @@ Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Ch
 Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br> I attended there to complete my Higher Secondary Certificate (HSC) examination. 
 ### High School
 
-<!-- <p align="center">
-  <img src="necessary img/pmhs.jpg" alt="High School Logo" width="80" height="80">
-</p>  -->
+<p align="center">
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/pmhs.jpg" width="250" height="300">
+</p> 
 
 - **Institution Name:** "Patiya Adarsha High School"
 - **Field:** Science
