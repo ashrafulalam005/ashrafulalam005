@@ -1,16 +1,191 @@
-### Hi there 👋
+<!-- Your Name -->
+<h1 align="center">🚀 Ashraful Alam 🌟</h1>
+<h3 align="center">🧠 Problem Solver | ⚙️ Efficient Coder | 💻 Creative Developer </h3>
 
-<!--
-**ashrafulalam005/ashrafulalam005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center">
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-ff69b4" alt="Website"></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-blue" alt="Twitter"></a>
+</p> -->
+<br> <br> <br>
 
-Here are some ideas to get you started:
+<!-- Introduction -->
+## 🌟 Hey there, I'm Ashraful Alam
+<br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.
+
+I find immense joy and satisfaction in delving into the realms of coding, problem-solving, and innovation. The ever-evolving nature of the field ignites my curiosity and propels me to stay updated with the latest trends and breakthroughs. Through dedicated study and hands-on experience, I am equipping myself to contribute meaningfully to the ever-expanding digital landscape.
+
+In addition to my academic pursuits, I relish the diverse experiences that university life offers. Engaging with fellow students, participating in workshops, and collaborating on projects not only enriches my learning but also enables me to forge meaningful connections with like-minded individuals who share my passion.
+
+Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the International Islamic University Chittagong, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.
+
+Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.
+
+<br> <br> 
+<!-- Technologies -->
+## 💻 My top programming languages and tools
+
+<br> <br> 
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" title="C" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" title="CSS3" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" width="80" height="50"/>
+  <br> <br> <br> 
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" width="80" height="50"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="80" height="50"/>
+</p>
+
+
+<br> <br> 
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<br> 
+
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=radical" alt="Ashraful Alam's GitHub Stats" />
+</a>
+
+<br> <br> 
+<!-- Top Languages -->
+<!-- ## 🌟 Top Languages -->
+<!-- <br>   -->
+
+<!-- <a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=radical" />
+</a> -->
+<!-- <br> <br>  -->
+<!-- Language Logos -->
+<!-- <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" title="Kotlin" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="80" height="80"/>
+</p> -->
+
+<br> 
+
+<!-- Education -->
+## 🎓 Education
+
+### University
+
+ <!-- <p align="center">
+  <img src="D:\neccesarry img\iiuc.jpg" alt="University Logo" width="80" height="80">
+</p> -->
+
+- **Institution Name:** "International Islamic University Chittagong (IIUC)"
+- **Degree:** B. Sc. in Computer Science and Engineering (CSE)
+- **Field:** Bachelor's of Engineering
+- **Time:** Jul 2023 - Jul 2027 (expected) 
+- **Batch:** IIUC CSE-56th Batch <br> <br> 
+Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br>  I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university. <br>  
+### Intermediate College
+
+<!-- <p align="center">
+  <img src="necessary img/ggc.jpg" alt="College Logo" width="80" height="80">
+</p> -->
+
+- **Institution Name:** "Gachbaria Government College"
+- **Field:** Science
+- **Time:** 2020 - 2022
+- **Batch:** HSC 2022 Batch <br> <br> 
+Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br> I attended there to complete my Higher Secondary Certificate (HSC) examination. 
+### High School
+
+<!-- <p align="center">
+  <img src="necessary img/pmhs.jpg" alt="High School Logo" width="80" height="80">
+</p>  -->
+
+- **Institution Name:** "Patiya Adarsha High School"
+- **Field:** Science
+- **Time:** 2015 - 2020
+- **Batch:** SSC 2020 Batch <br> <br> 
+Patiya Adarsha High School , it's not just a name. It's one of the best parts of my life. I attended there to complete my Secondary School Certificate (SSC) examination. It is one of the oldest school in Bangladesh. It was established in 1845 as an English Medium School. The school was affiliated with Calcutta University in 1867. Now it is affiliated under Board of Intermediary and Secondary Education, Chittagong, Bangladesh.  
+
+<!-- Skills -->
+## 💼 Skills
+
+### Programming Languages
+- C
+- C++
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Kotlin
+- Java
+
+### Tools & Frameworks
+- Android Studio
+- Flutter
+- Git
+- GitHub
+- Visual Studio Code
+- Sublime Text
+
+<!-- Achievements -->
+<!-- ## 🏆 Achievements
+
+- Winner of the Coding Challenge at [Event Name]
+- Honorable Mention in the [Competition Name]
+- Achieved [Certification Name] in [Field]
+- Recognized as [Award Name] by [Organization/Institution] -->
+
+<!-- Featured Projects -->
+<!-- ## 🚀 Featured Projects
+
+- [Project 1](https://github.com/yourusername/project1): Description of Project 1
+- [Project 2](https://github.com/yourusername/project2): Description of Project 2
+- [Project 3](https://github.com/yourusername/project3): Description of Project 3 -->
+
+<!-- Let's Connect -->
+<h2>📫 Let's Connect</h2>
+
+<div style="text-align: center;">
+  <a href="https://sites.google.com/view/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ashrafulalamofficial005/yourfacebook"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ashrafulalamyt@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"></a>
+</div>
+
+
+<!-- Fun Facts -->
+## 💡 Fun Facts About Me
+
+- 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.
+- 🎮 Gaming is my ultimate escape, providing me with endless entertainment and challenges to unwind after long coding sessions.
+- 🏞️ On weekends, I trade my keyboard for hiking boots, exploring nature's wonders and discovering new scenic trails to feed my adventurous spirit.
+- 💪 Balancing my coding endeavors, I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body alongside a sharp mind.
+
+<!-- Footer 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername" alt="Visitors Counter" />
+</p>  -->
+
