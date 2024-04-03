@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
 <body>
-    <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/bannergif.gif" alt="Banner GIF">
+    <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/bannergif.gif" alt="Banner GIF"> 
 </body>
 </html>
 
@@ -23,6 +23,20 @@
 <!-- Introduction -->
 ## 🌟 Hey there, I'm Ashraful Alam
 <br> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/mygif.gif" alt="My GIF" width="500" height="500">
+    </div>
+</body>
+</html>
+<br> <br> 
+
 
 My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.
 
