@@ -85,13 +85,13 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 
 <br> <br> 
 <!-- Top Languages -->
-<!-- ## 🌟 Top Languages -->
-<!-- <br>   -->
+## 🌟 Top Languages 
+ <br>  
 
-<!-- <a href="https://github.com/ashrafulalam005">
+<a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=radical" />
-</a> -->
-<!-- <br> <br>  -->
+</a> 
+<br> <br> 
 <!-- Language Logos -->
 <!-- <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="80" height="80"/>
