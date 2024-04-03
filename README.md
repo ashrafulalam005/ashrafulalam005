@@ -46,9 +46,9 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" width="80" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" width="80" height="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="80" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="80" height="70"/>
 </p>
 
 
@@ -124,7 +124,7 @@ Gachabaria Government College was established on July 1, 1969 in Gachbaria area 
 Patiya Adarsha High School , it's not just a name. It's one of the best parts of my life. I attended there to complete my Secondary School Certificate (SSC) examination. It is one of the oldest school in Bangladesh. It was established in 1845 as an English Medium School. The school was affiliated with Calcutta University in 1867. Now it is affiliated under Board of Intermediary and Secondary Education, Chittagong, Bangladesh.  
 
 <!-- Skills -->
-## 💼 Skills
+## 🎯 Skills
 
 ### Programming Languages
 - C
@@ -160,20 +160,26 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 - [Project 3](https://github.com/yourusername/project3): Description of Project 3 -->
 
 <!-- Let's Connect -->
-<h2>📫 Let's Connect</h2>
+<h2>📲 Let's Connect</h2>
 
 <div style="text-align: center;">
-  <a href="https://sites.google.com/view/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="Website"></a>
+  <a href="https://sites.google.com/view/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/weblogo.jpg" 
+  width="100" height="100" alt="Website"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ashrafulalamofficial005"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://www.facebook.com/ashrafulalamofficial005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/fblogo.png" 
+  width="100" height="100" alt="Facebook"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"></a>
+  <a href="https://instagram.com/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/instalogo.png" 
+  width="100" height="100" alt="Instagram"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/LinkedIn_logo.png" 
+  width="100" height="100" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ashrafulalam005"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
+  <a href="https://twitter.com/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/xlogo.png" width="100" 
+  height="100" alt="Twitter"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ashrafulalamyt@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail"></a>
+  <a href="mailto:ashrafulalamyt@gmail.com"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/maillogo.png" 
+  width="100" height="100" alt="Gmail"></a>
 </div>
 
 
