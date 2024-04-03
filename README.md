@@ -61,6 +61,16 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 <a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=radical" alt="Ashraful Alam's GitHub Stats" />
 </a>
+<br>
+<br>
+
+<!-- GitHub Streak -->
+## 🔥 GitHub Streak
+<br>
+
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" alt="Ashraful Alam's GitHub Streak" />
+</a>
 
 <br> <br> 
 <!-- Top Languages -->
