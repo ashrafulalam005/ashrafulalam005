@@ -76,7 +76,6 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="80" height="70"/>
 </p>
 
-
 <br> <br> 
 
 <!-- GitHub Stats -->
