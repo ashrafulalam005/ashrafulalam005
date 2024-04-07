@@ -18,7 +18,9 @@
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-blue" alt="Twitter"></a>
 </p> -->
-<br> <br> <br>
+<br> <br> <br> 
+
+
 
 <!-- Introduction -->
 ## 🌟 Hey there, I'm Ashraful Alam
@@ -49,6 +51,14 @@ Ultimately, my journey in Computer Science and Engineering is not just about acq
 Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.
 
 <br> <br> 
+
+## Profie Viewer
+<br> <br> 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafulalam005" alt="Visitors Counter" />
+</p> 
+<br> <br> 
+
 <!-- Technologies -->
 ## 💻 My top programming languages and tools
 
@@ -226,9 +236,4 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 - 💪 Balancing my coding endeavors, I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body alongside a sharp mind.
 
 <br> <br> <br>
-
-## Footer 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafulalam005" alt="Visitors Counter" />
-</p> 
 
