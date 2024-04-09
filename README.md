@@ -81,9 +81,9 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="Android Studio" title="Android Studio" width="80" height="70"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/android-studio-icon.webp" alt="Android Studio" title="Android Studio" width="70" height="70"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter" width="80" height="70"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/images.png" alt="Flutter" title="Flutter" width="50" height="50"/>
 </p>
 
 <br> <br> 
