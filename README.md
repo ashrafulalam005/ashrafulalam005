@@ -55,7 +55,7 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 ## 👀 Profie Viewer
 <br> <br> 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafulalam005" alt="Visitors Counter" width="200" height="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafulalam005" alt="Visitors Counter" width="200" height="70" />
 </p> 
 <br> <br> 
 
