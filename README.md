@@ -33,7 +33,7 @@
 </head>
 <body>
     <div style="text-align: center;">
-        <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/mygif.gif" alt="My GIF" width="500" height="490">
+        <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/mygif.gif" alt="My GIF" width="500" height="495">
     </div>
 </body>
 </html>
