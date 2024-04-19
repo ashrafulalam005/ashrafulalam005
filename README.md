@@ -209,19 +209,19 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 <div style="text-align: center;">
   <a href="https://sites.google.com/view/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/weblogo.jpg" 
   width="100" height="100" alt="Website"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ashrafulalamofficial005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/fblogo.png" 
   width="100" height="100" alt="Facebook"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/instalogo.png" 
   width="100" height="100" alt="Instagram"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/LinkedIn_logo.png" 
   width="100" height="100" alt="LinkedIn"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ashrafulalam005"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/xlogo.png" width="100" 
   height="100" alt="Twitter"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:ashrafulalamyt@gmail.com"><img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/maillogo.png" 
   width="100" height="100" alt="Gmail"></a>
 </div>
