@@ -64,26 +64,26 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 
 <br> <br> 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" title="C" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/c.png" alt="C" title="C" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/c%2B%2B.png" alt="C++" title="C++" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/html.png" alt="HTML5" title="HTML5" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" title="CSS3" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/css.png" alt="CSS3" title="CSS3" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/js.png" alt="JavaScript" title="JavaScript" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" title="Python" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/python.png" alt="Python" title="Python" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <br> <br> <br> 
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" title="Kotlin" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/kotlin.png" alt="Kotlin" title="Kotlin" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" title="Java" width="80" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/java.png" alt="Java" title="Java" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/android-studio-icon.webp" alt="Android Studio" title="Android Studio" width="70" height="70"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/Android%20Studio.png" alt="Android Studio" title="Android Studio" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/images.png" alt="Flutter" title="Flutter" width="50" height="50"/>
+  <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/flutter.png" alt="Flutter" title="Flutter" width="100" height="100"/>
 </p>
 
 <br> <br> 
