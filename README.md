@@ -65,15 +65,15 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 <br> <br> 
 <p align="center">
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/c.png" alt="C" title="C" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/c%2B%2B.png" alt="C++" title="C++" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/html.png" alt="HTML5" title="HTML5" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/css.png" alt="CSS3" title="CSS3" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/js.png" alt="JavaScript" title="JavaScript" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/social%20logos/python.png" alt="Python" title="Python" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <br> <br> <br> 
