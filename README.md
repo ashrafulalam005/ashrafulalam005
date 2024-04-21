@@ -53,10 +53,15 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 <br> <br> 
 
 ## 👀 Profie Viewer
-<br> <br> 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ashrafulalam005" alt="Visitors Counter" width="200" height="70" />
-</p> 
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <!-- <h1>Welcome to My GitHub Profile!</h1> -->
+    <br> <br> 
+    <img src="https://komarev.com/ghpvc/?username=ashrafulalam005&color=blue" alt="Profile Views Counter"  width="200" height="50">
+</body>
+</html>
+
 <br> <br> 
 
 <!-- Technologies -->
