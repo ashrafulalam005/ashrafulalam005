@@ -234,6 +234,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 
 <!-- Fun Facts -->
 ## 💡 Fun Facts About Me
+<br> 
 
 - 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.
 - 🎮 Gaming is my ultimate escape, providing me with endless entertainment and challenges to unwind after long coding sessions.
