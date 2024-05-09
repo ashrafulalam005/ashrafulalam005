@@ -135,9 +135,9 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 <br> 
 
 <!-- Education -->
-## 🎓 Education
+# 🎓 Education
 
-### University
+## University
 
 <p align="center">
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/iiuc.jpg" alt="University Logo" width="300" height="300">
