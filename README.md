@@ -159,7 +159,7 @@ Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Ch
 - **Field:** Science
 - **Time:** 2020 - 2022
 - **Batch:** HSC 2022 Batch <br> <br> 
-Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br> I attended there to complete my Higher Secondary Certificate (HSC) examination. 
+Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br> I attended there to complete my Higher Secondary Certificate (HSC) examination. <br> <br> 
 ## High School
 
 <p align="center">
