@@ -234,6 +234,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
   width="100" height="100" alt="Gmail"></a>
 </div>
 
+<br> 
 
 <!-- Fun Facts -->
 ## 💡 Fun Facts About Me
