@@ -174,6 +174,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 
 <!-- Skills -->
 # 🎯 Skills
+<br> 
 
 ### Programming Languages
 - C
