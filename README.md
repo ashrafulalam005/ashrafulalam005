@@ -197,6 +197,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 - GitHub
 - Visual Studio Code
 - Sublime Text
+<br>
 
 <!-- Achievements -->
 <!-- ## 🏆 Achievements
