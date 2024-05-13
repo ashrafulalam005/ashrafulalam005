@@ -174,7 +174,7 @@ Gachabaria Government College was established on July 1, 1969 in Gachbaria area 
 - **Batch:** SSC 2020 Batch <br> <br> 
 Patiya Adarsha High School , it's not just a name. It's one of the best parts of my life. I attended there to complete my Secondary School Certificate (SSC) examination. It is one of the oldest school in Bangladesh. It was established in 1845 as an English Medium School. The school was affiliated with Calcutta University in 1867. Now it is affiliated under Board of Intermediary and Secondary Education, Chittagong, Bangladesh.  
 
-<br> 
+<br> <br> 
 
 <!-- Skills -->
 # 🎯 Skills
