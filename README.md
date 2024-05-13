@@ -156,6 +156,7 @@ Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Ch
 <p align="center">
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/ggc.jpg" width="250" height="250">
 </p> 
+<br> 
 
 - **Institution Name:** "Gachbaria Government College"
 - **Field:** Science
