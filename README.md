@@ -169,6 +169,7 @@ Gachabaria Government College was established on July 1, 1969 in Gachbaria area 
 <p align="center">
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/pmhs.jpg" width="250" height="300">
 </p> 
+<br> 
 
 - **Institution Name:** "Patiya Adarsha High School"
 - **Field:** Science
