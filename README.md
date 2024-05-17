@@ -255,5 +255,5 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 - 🏞️ On weekends, I trade my keyboard for hiking boots, exploring nature's wonders and discovering new scenic trails to feed my adventurous spirit.
 - 💪 Balancing my coding endeavors, I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body alongside a sharp mind.
 
-<br> <br> <br> <br> <br> 
+<br> <br> <br> <br> 
 
