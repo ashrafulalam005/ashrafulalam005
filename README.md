@@ -1,4 +1,4 @@
-<br> <br>   
+<br> <br> 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -25,7 +25,7 @@
 
 
 <!-- Introduction -->
-## 🌟 Hey there, I'm Ashraful Alam
+# 🌟 Hey there, I'm Ashraful Alam
 <br> 
 <!DOCTYPE html>
 <html lang="en">
@@ -42,19 +42,19 @@
 <br> <br> <br> 
 
 
-My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.
+My name is **Ashraful Alam**, and I reside in the vibrant city **Chittagong**, located in the beautiful country **Bangladesh**. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of **Computer Science and Engineering**. At the esteemed **International Islamic University Chittagong**, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for **Computer Science and Engineering** knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the **International Islamic University Chittagong**, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.
 
 I find immense joy and satisfaction in delving into the realms of coding, problem-solving, and innovation. The ever-evolving nature of the field ignites my curiosity and propels me to stay updated with the latest trends and breakthroughs. Through dedicated study and hands-on experience, I am equipping myself to contribute meaningfully to the ever-expanding digital landscape.
 
 In addition to my academic pursuits, I relish the diverse experiences that university life offers. Engaging with fellow students, participating in workshops, and collaborating on projects not only enriches my learning but also enables me to forge meaningful connections with like-minded individuals who share my passion.
 
-Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the International Islamic University Chittagong, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.
+Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the **International Islamic University Chittagong**, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.
 
-Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.
+Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in **Computer Science and Engineering** takes me next.
 
 <br> <br> 
 
-## 👀 Profie Viewer
+# 👀 Profie Viewer
 <!DOCTYPE html>
 <html lang="en">
 <body>
@@ -67,7 +67,7 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 <br> <br> 
 
 <!-- Technologies -->
-## 💻 My top programming languages and tools
+# 💻 My top programming languages and tools
 
 <br> <br> 
 <p align="center">
@@ -95,31 +95,19 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 
 <br> <br> 
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<br> 
-
+# 📊 GitHub Stats
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=radical" alt="Ashraful Alam's GitHub Stats" />
-</a>
-<br>
-<br>
-
-<!-- GitHub Streak -->
-## 🔥 GitHub Streak
-<br>
-
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" alt="Ashraful Alam's GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=radical" width="600" height="600" alt="Ashraful Alam's GitHub Stats" />
 </a>
 
-<br> <br> 
-<!-- Top Languages -->
-## 🌟 Top Languages 
- <br>  
-
+# 🔥 GitHub Streak
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" width="500" height="500" alt="Ashraful Alam's GitHub Streak" />
+</a>
+
+# 🌟 Top Languages 
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=radical" width="500" height="500"/>
 </a> 
 <br> <br> 
 <!-- Language Logos -->
@@ -220,8 +208,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 - [Project 2](https://github.com/yourusername/project2): Description of Project 2
 - [Project 3](https://github.com/yourusername/project3): Description of Project 3 -->
 
-<!-- Let's Connect -->
-<h2>📲 Let's Connect</h2>
+# 📲 Let's Connect
 
 <br> <br> 
 <div style="text-align: center;">
@@ -246,8 +233,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 
 <br> <br> 
 
-<!-- Fun Facts -->
-## 💡 Fun Facts About Me
+# 💡 Fun Facts About Me
 <br> 
 
 - 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.
