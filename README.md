@@ -102,7 +102,7 @@ Thank you for taking the time to learn a little about me and my aspirations. I a
 
 # 🔥 GitHub Streak
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" width="500" height="500" alt="Ashraful Alam's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" width="600" height="600" alt="Ashraful Alam's GitHub Streak" />
 </a>
 
 # 🌟 Top Languages 
