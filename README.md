@@ -12,8 +12,9 @@
 
 <br> <br> 
 <!-- Your Name -->
-<h1 align="center">🚀 Ashraful Alam 🌟</h1>
-<h3 align="center">🧠 Problem Solver | ⚙️ Efficient Coder | 💻 Creative Developer </h3>
+# <div align="center">🚀 Ashraful Alam 🌟</div>
+## <div align="center">🧠 Problem Solver | ⚙️ Efficient Coder | 💻 Creative Developer </div>
+
 
 <!-- <p align="center">
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-ff69b4" alt="Website"></a>
