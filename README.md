@@ -213,10 +213,10 @@
 # 💡 Fun Facts About Me
 <br> 
 
-- 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.
-- 🎮 Gaming is my ultimate escape, providing me with endless entertainment and challenges to unwind after long coding sessions.
-- 🏞️ On weekends, I trade my keyboard for hiking boots, exploring nature's wonders and discovering new scenic trails to feed my adventurous spirit.
-- 💪 Balancing my coding endeavors, I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body alongside a sharp mind.
+***- 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.***  
+***- 🎮 Gaming is my ultimate escape, providing me with endless entertainment and challenges to unwind after long coding sessions.***  
+***- 🏞️ On weekends, I trade my keyboard for hiking boots, exploring nature's wonders to feed my adventurous spirit.***  
+***- 💪 I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body.***
 
 <br> <br> <br> <br>
  
