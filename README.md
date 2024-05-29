@@ -173,7 +173,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 # 🎯 Skills
 <br> 
 
-### Programming Languages
+## Programming Languages
 - C
 - C++
 - HTML5
@@ -185,7 +185,7 @@ Patiya Adarsha High School , it's not just a name. It's one of the best parts of
 
 <br> 
 
-### Tools & Frameworks
+## Tools & Frameworks
 - Android Studio
 - Flutter
 - Git
