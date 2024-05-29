@@ -168,12 +168,12 @@
 <br> 
 
 ## Tools & Frameworks
-- Android Studio
-- Flutter
-- Git
-- GitHub
-- Visual Studio Code
-- Sublime Text
+***- Android Studio***  
+***- Flutter***  
+***- Git***  
+***- GitHub***  
+***- Visual Studio Code***  
+***- Sublime Text***  
 <br>
 
 <!-- Achievements -->
