@@ -134,12 +134,12 @@
   <img src="https://github.com/ashrafulalam005/ashrafulalam005/blob/main/neccesarry%20img/iiuc.jpg" alt="University Logo" width="300" height="300">
 </p> 
 
-- **Institution Name:** "International Islamic University Chittagong (IIUC)"
-- **Degree:** B. Sc. in Computer Science and Engineering (CSE)
-- **Field:** Bachelor's of Engineering
-- **Time:** Jul 2023 - Jul 2027 (expected) 
-- **Batch:** IIUC CSE-56th Batch <br> <br> 
-Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br>  I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university. <br>  <br> <br> 
+***- Institution Name: "International Islamic University Chittagong (IIUC)"***  
+***- Degree: B. Sc. in Computer Science and Engineering (CSE)***  
+***- Field: Bachelor's of Engineering***  
+***- Time: Jul 2023 - Jul 2027 (expected)***  
+***- Batch: IIUC CSE-56th Batch*** <br> <br> 
+***Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br>  I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university.*** <br>  <br> <br> 
 ## Intermediate College
 
 <br> <br> 
