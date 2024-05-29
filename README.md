@@ -184,12 +184,6 @@
 - Achieved [Certification Name] in [Field]
 - Recognized as [Award Name] by [Organization/Institution] -->
 
-<!-- Featured Projects -->
-<!-- ## 🚀 Featured Projects
-
-- [Project 1](https://github.com/yourusername/project1): Description of Project 1
-- [Project 2](https://github.com/yourusername/project2): Description of Project 2
-- [Project 3](https://github.com/yourusername/project3): Description of Project 3 -->
 
 # 📲 Let's Connect
 
