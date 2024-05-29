@@ -43,15 +43,15 @@
 <br> <br> <br> 
 
 
-My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.
+***My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.***
 
-I find immense joy and satisfaction in delving into the realms of coding, problem-solving, and innovation. The ever-evolving nature of the field ignites my curiosity and propels me to stay updated with the latest trends and breakthroughs. Through dedicated study and hands-on experience, I am equipping myself to contribute meaningfully to the ever-expanding digital landscape.
+***I find immense joy and satisfaction in delving into the realms of coding, problem-solving, and innovation. The ever-evolving nature of the field ignites my curiosity and propels me to stay updated with the latest trends and breakthroughs. Through dedicated study and hands-on experience, I am equipping myself to contribute meaningfully to the ever-expanding digital landscape.***
 
-In addition to my academic pursuits, I relish the diverse experiences that university life offers. Engaging with fellow students, participating in workshops, and collaborating on projects not only enriches my learning but also enables me to forge meaningful connections with like-minded individuals who share my passion.
+***In addition to my academic pursuits, I relish the diverse experiences that university life offers. Engaging with fellow students, participating in workshops, and collaborating on projects not only enriches my learning but also enables me to forge meaningful connections with like-minded individuals who share my passion.***
 
-Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the International Islamic University Chittagong, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.
+***Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the International Islamic University Chittagong, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.***
 
-Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.
+***Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.***
 
 <br> <br> 
 
