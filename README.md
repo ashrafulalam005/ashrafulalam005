@@ -139,7 +139,7 @@
 ***- Field: Bachelor's of Engineering***  
 ***- Time: Jul 2023 - Jul 2027 (expected)***  
 ***- Batch: IIUC CSE-56th Batch*** <br> <br> 
-***Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br>  I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university.*** <br>  <br> <br> 
+***Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br><br>   I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university.*** <br>  <br> <br> 
 ## Intermediate College
 
 <br> <br> 
@@ -148,11 +148,11 @@
 </p> 
 <br> 
 
-- **Institution Name:** "Gachbaria Government College"
-- **Field:** Science
-- **Time:** 2020 - 2022
-- **Batch:** HSC 2022 Batch <br> <br> 
-Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br> I attended there to complete my Higher Secondary Certificate (HSC) examination. <br> <br> <br> 
+***- Institution Name: "Gachbaria Government College"***  
+***- Field: Science***  
+***- Time: 2020 - 2022***  
+***- Batch: HSC 2022 Batch***   <br> <br> 
+***Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br><br>  I attended there to complete my Higher Secondary Certificate (HSC) examination.*** <br> <br> <br> 
 ## High School
 
 <br> 
