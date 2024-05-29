@@ -157,15 +157,14 @@
 <br> 
 
 ## Programming Languages
-- C
-- C++
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Kotlin
-- Java
-
+***- C***  
+***- C++***  
+***- HTML5***  
+***- CSS3***  
+***- JavaScript***  
+***- Python***  
+***- Kotlin***  
+***- Java***  
 <br> 
 
 ## Tools & Frameworks
