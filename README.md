@@ -17,11 +17,7 @@
 ## <div align="center">🧠 Problem Solver | ⚙️ Efficient Coder | 💻 Creative Developer </div>
 
 
-<!-- <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Website-ff69b4" alt="Website"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/-Twitter-blue" alt="Twitter"></a>
-</p> -->
+
 <br> <br> <br> 
 
 
