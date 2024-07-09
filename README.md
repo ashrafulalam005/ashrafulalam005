@@ -59,7 +59,7 @@
 
 <br> <br> 
 
-<!-- Technologie
+<!-- Technologi
 # 💻 My top programming languages and tools
 
 <br> <br> 
