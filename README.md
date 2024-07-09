@@ -59,7 +59,7 @@
 
 <br> <br> 
 
-<!-- Tech
+<!-- Tec
 # 💻 My top programming languages and tools
 
 <br> <br> 
