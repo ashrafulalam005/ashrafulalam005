@@ -59,7 +59,7 @@
 
 <br> <br> 
 
-<!-- Te
+<!-- T
 # 💻 My top programming languages and tools
 
 <br> <br> 
