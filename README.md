@@ -18,7 +18,7 @@
 
 <br> <br> <br> 
 
-<!-- Introducti
+<!-- Introduct
 # 🥷 Hey there, I'm Ashraful Alam
 <br> 
 <!DOCTYPE html>
