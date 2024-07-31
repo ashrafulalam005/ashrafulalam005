@@ -88,14 +88,10 @@
 
 <br> <br> 
 # ↗️ Profile Details with Contributions Graph
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalam005&theme=chartreuse_dark" width="800" height="800" alt="Profile Details" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalam005&theme=chartreuse_dark)
 
 # 📊 Ashraful's GitHub Stats
-<p style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=chartreuse-dark" width="800" height="800" alt="Ashraful's GitHub Stats" style="display: block; margin: 0 auto;" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 # 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=495&card_height=195)](https://git.io/streak-stats)
@@ -109,29 +105,18 @@
 
 # 📊 Stats of current year
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark)
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Stats" />
-</a>
 
 # ⏰ Productive Time
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Productive Time" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark)
 
 # ⏱️ Commits per Hour
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark&utcOffset=6" width="600" height="400" alt="Commits per Hour" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark&utcOffset=6)
 
 # 🌟 Top Languages
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=chartreuse-dark" width="600" height="400"/>
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=chartreuse-dark)
 
 # 🏆 Trophies
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ashrafulalam005&theme=juicyfresh" width="1200" height="600" alt="Trophies" />
-</a>
+![](https://github-profile-trophy.vercel.app/?username=ashrafulalam005&theme=juicyfresh)
 
 <br> <br> <br> 
 
