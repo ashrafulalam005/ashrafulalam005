@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=431&card_height=170)](https://git.io/streak-stats)
 
 <br> <br> <br> 
 
@@ -100,10 +98,8 @@
 </p>
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark)](https://git.io/streak-stats)
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=chartreuse-dark" width="800" height="800" alt="Ashraful Alam's GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=431&card_height=170)](https://git.io/streak-stats)
+
 
 # 📚 Repos per Language
 <a href="https://github.com/ashrafulalam005">
