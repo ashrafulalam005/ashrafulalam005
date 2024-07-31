@@ -108,7 +108,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulalam005&theme=chartreuse_dark)
 
 # 📊 Stats of current year
-[](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark)
 <a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Stats" />
 </a>
