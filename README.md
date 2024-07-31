@@ -1,5 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=635&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=317&card_height=125)](https://git.io/streak-stats)
 
 <br> <br> <br> 
 
@@ -100,7 +100,7 @@
 </p>
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=635&card_height=250)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark)](https://git.io/streak-stats)
 <a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=chartreuse-dark" width="800" height="800" alt="Ashraful Alam's GitHub Streak" />
 </a>
