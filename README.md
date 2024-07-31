@@ -1,5 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=317&card_height=125)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=431&card_height=170)](https://git.io/streak-stats)
 
 <br> <br> <br> 
 
