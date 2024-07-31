@@ -1,3 +1,4 @@
+
 <br> <br> <br> 
 
 <!DOCTYPE html>
@@ -86,21 +87,56 @@
 </p>
 
 <br> <br> 
-
-# 📊 GitHub Stats
+# ↗️ Profile Details with Contributions Graph
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=radical" width="600" height="600" alt="Ashraful Alam's GitHub Stats" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalam005&theme=chartreuse_dark" width="800" height="800" alt="Profile Details" />
 </a>
+
+# 📊 Ashraful's GitHub Stats
+<p style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulalam005&show_icons=true&include_all_commits=true&theme=chartreuse-dark" width="800" height="800" alt="Ashraful's GitHub Stats" style="display: block; margin: 0 auto;" />
+</p>
 
 # 🔥 GitHub Streak
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=radical" width="600" height="600" alt="Ashraful Alam's GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrafulalam005&theme=chartreuse-dark" width="800" height="800" alt="Ashraful Alam's GitHub Streak" />
 </a>
 
-# 🌟 Top Languages 
+# 📚 Repos per Language
 <a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=radical" width="500" height="500"/>
-</a> 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Repos per Language" />
+</a>
+
+# 📈 Most Commit Language
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Most Commit Language" />
+</a>
+
+# 📊 Stats of current year
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Stats" />
+</a>
+
+# ⏰ Productive Time
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Productive Time" />
+</a>
+
+# ⏱️ Commits per Hour
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalam005&theme=chartreuse_dark&utcOffset=6" width="600" height="400" alt="Commits per Hour" />
+</a>
+
+# 🌟 Top Languages
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalam005&layout=compact&theme=chartreuse-dark" width="600" height="400"/>
+</a>
+
+# 🏆 Trophies
+<a href="https://github.com/ashrafulalam005">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ashrafulalam005&theme=juicyfresh" width="1200" height="600" alt="Trophies" />
+</a>
+
 <br> <br> <br> 
 
 # 🎓 Education
