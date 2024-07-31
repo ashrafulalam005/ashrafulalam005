@@ -98,16 +98,14 @@
 </p>
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=431&card_height=170)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalam005&theme=chartreuse-dark&card_width=495&card_height=195)](https://git.io/streak-stats)
 
 
 # 📚 Repos per Language
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalam005&theme=chartreuse_dark)
-<a href="https://github.com/ashrafulalam005">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Repos per Language" />
-</a>
 
 # 📈 Most Commit Language
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulalam005&theme=chartreuse_dark)
 <a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Most Commit Language" />
 </a>
