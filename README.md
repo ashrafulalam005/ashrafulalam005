@@ -102,6 +102,7 @@
 
 
 # 📚 Repos per Language
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalam005&theme=chartreuse_dark)
 <a href="https://github.com/ashrafulalam005">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalam005&theme=chartreuse_dark" width="600" height="400" alt="Repos per Language" />
 </a>
